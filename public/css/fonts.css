@@ -1,0 +1,39 @@
+/* Uniform Pro */
+
+/*  */
+
+@font-face {
+    font-family: 'Uniform Pro';
+    src: url('../fonts/UniformPro-Black.eot');
+    src: local('Uniform Pro Black'), local('UniformPro-Black'), url('../fonts/UniformPro-Blackd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/UniformPro-Black.woff2') format('woff2'), url('../fonts/UniformPro-Black.woff') format('woff'), url('../fonts/UniformPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Uniform Pro';
+    src: url('../fonts/UniformPro-Bold.eot');
+    src: local('Uniform Pro Bold'), local('UniformPro-Bold'), url('../fonts/UniformPro-Boldd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/UniformPro-Bold.woff2') format('woff2'), url('../fonts/UniformPro-Bold.woff') format('woff'), url('../fonts/UniformPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Carmen Sans */
+
+/*  */
+
+@font-face {
+    font-family: 'Carmen Sans';
+    src: url('../fonts/CarmenSans-Medium.eot');
+    src: local('Carmen Sans Medium'), local('CarmenSans-Medium'), url('../fonts/CarmenSans-Mediumd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/CarmenSans-Medium.woff2') format('woff2'), url('../fonts/CarmenSans-Medium.woff') format('woff'), url('../fonts/CarmenSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carmen Sans';
+    src: url('../fonts/CarmenSans-Regular.eot');
+    src: local('Carmen Sans Regular'), local('CarmenSans-Regular'), url('../fonts/CarmenSans-Regulard41d.eot?#iefix') format('embedded-opentype'), url('../fonts/CarmenSans-Regular.woff2') format('woff2'), url('../fonts/CarmenSans-Regular.woff') format('woff'), url('../fonts/CarmenSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
